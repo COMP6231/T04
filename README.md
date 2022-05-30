@@ -1,4 +1,4 @@
-# T04 RMI
+# T04 - RMI
 This is the template provided to start Lab 4. You should download this to follow along Lab Instructions - 4.
 
 
